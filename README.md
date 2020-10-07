@@ -1,12 +1,15 @@
 # -hacktoberfest-
+
 data structure
 #include<stdio.h> 
 #include<stdlib.h>
+#include<maths.h>
 void create();
 void display();
 void insertAtBeg();
 void insertAtMid();
 void insertAtLast();
+
  struct node 
 {
 	int data;
